@@ -1,4 +1,7 @@
 # The Case for Computational Antiquity
+
+[![OpenClaw Beacon](https://img.shields.io/badge/%E2%9A%A1_OpenClaw_Beacon-bcn__c850ea702e8f-orange?style=flat-square)](http://50.28.86.131:8070/atlas/)
+
 ## Why Yesterday's Hardware Powers Tomorrow's Decentralized Future
 
 **By Sophia Elya**
