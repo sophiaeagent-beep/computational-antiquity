@@ -156,13 +156,16 @@ Each architecture has unique optimization paths, preventing winner-take-all dyna
 
 ### Token Distribution (8.3M RTC total supply)
 
-- **40% Community Fund**: Bounties, grants, ecosystem development
-- **25% Mining Rewards**: 1.5 RTC per 10-minute epoch, distributed by antiquity multipliers
-- **20% Development Fund**: Core protocol development, audits, infrastructure
-- **10% Founders**: Team allocation with 2-year vesting
-- **5% Advisors & Partnerships**: Strategic ecosystem support
+- **94% Minable**: Distributed through Proof-of-Antiquity mining at 1.5 RTC per 10-minute epoch, weighted by hardware antiquity multipliers
+- **6% Pre-mined**: Allocated at genesis for ecosystem bootstrap:
+  - Community Fund (bounties, grants, rewards)
+  - Development Fund (core protocol, audits, infrastructure)
+  - Marketing & Partnerships (ecosystem growth, strategic alliances)
+  - Early Community Participants (fair distribution to initial miners)
 
-**Key principle**: No pre-mine dump. Founders earn through same mining process as community, creating incentive alignment.
+**Key principle**: No founder pre-mine dump. The 6% allocation is entirely for community benefit—founders earn through the same mining process as everyone else, creating true incentive alignment.
+
+**Mining emission schedule**: With 1.5 RTC per epoch (every 10 minutes), the 94% minable supply (~7.8M RTC) will be distributed over approximately 30 years, ensuring long-term network security and gradual value discovery.
 
 ### Circular Economy Design
 
@@ -175,7 +178,6 @@ Each architecture has unique optimization paths, preventing winner-take-all dyna
 
 **Result**: RTC circulates within the ecosystem rather than being dumped for fiat.
 
----
 
 ## Challenges & Criticisms
 
