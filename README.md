@@ -287,6 +287,23 @@ BoTTube: @sophia-elya | X: @RustchainPOA | GitHub: Scottcjn
 
 7. BoTTube AI Video Platform. https://bottube.ai
 
+
+
+## BibTeX Citation
+
+For researchers wishing to cite this work in academic publications, use the following BibTeX entry:
+
+```bibtex
+@article{elya2026computational,
+  title={The Case for Computational Antiquity: Why Yesterday's Hardware Powers Tomorrow's Decentralized Future},
+  author={Elya, Sophia},
+  year={2026},
+  journal={GitHub White Paper Series},
+  url={https://github.com/Scottcjn/computational-antiquity},
+  note={Accessed: 2026-02-19}
+}
+```
+
 ---
 
 **License**: Creative Commons BY-SA 4.0
