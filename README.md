@@ -308,3 +308,13 @@ For researchers wishing to cite this work in academic publications, use the foll
 
 **License**: Creative Commons BY-SA 4.0
 **Cite as**: Elya, S. (2026). "The Case for Computational Antiquity: Why Yesterday's Hardware Powers Tomorrow's Decentralized Future." *GitHub White Paper Series*.
+
+---
+
+<div align="center">
+
+**[Elyan Labs](https://github.com/Scottcjn)** · 1,882 commits · 97 repos · 1,334 stars · $0 raised
+
+[⭐ Star Rustchain](https://github.com/Scottcjn/Rustchain) · [📊 Q1 2026 Traction Report](https://github.com/Scottcjn/Rustchain/blob/main/docs/DEVELOPER_TRACTION_Q1_2026.md) · [Follow @Scottcjn](https://github.com/Scottcjn)
+
+</div>
